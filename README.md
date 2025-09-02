@@ -59,24 +59,6 @@ attendance → courses (many:1)
 - MySQL 8.0+
 - Command Prompt (or any terminal) to run MySQL commands
 
-
-### Setup Instructions
-1. **Create Database**
-   ```bash
-   mysql -u username -p < schema.sql
-   ```
-
-2. **Load Sample Data**
-   ```bash
-   mysql -u username -p attendance_system < data.sql
-   ```
-
-3. **Test Queries**
-   ```bash
-   mysql -u username -p attendance_system < queries.sql
-   ```
-
-
 ## 📞 Contact
 
 **LinkedIn:** [[Alok Gupta](https://www.linkedin.com/in/alokgupta5695/)]  
